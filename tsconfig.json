@@ -1,0 +1,17 @@
+{
+    "extends": "./node_modules/openfin-service-tooling/tsconfig-services.json",
+    "compilerOptions": {
+        "outDir": "dist",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "lib": [
+            "dom",
+            "es2019"
+        ],
+        "rootDir": "."
+    },
+    "include": [
+        "src/**/*",
+        "test/**/*"
+    ]
+}

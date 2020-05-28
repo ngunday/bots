@@ -1,0 +1,23 @@
+{
+  "name": "bots",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "svc-tools build",
+    "check": "svc-tools check",
+    "clean": "rimraf dist gen hooks.js",
+    "fix": "svc-tools fix",
+    "start": "svc-tools start",
+    "test": "echo Write some tests!"
+  },
+  "devDependencies": {
+    "@types/openfin": "49.0.0",
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "openfin-service-tooling": "1.0.31",
+    "hadouken-js-adapter": "1.44.1",
+    "html-webpack-plugin": "3.2.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "typescript": "3.7.5"
+  }
+}

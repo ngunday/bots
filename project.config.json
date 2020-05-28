@@ -1,0 +1,7 @@
+{
+    "PORT": 8083,
+    "NAME": "os-launchpad",
+    "TITLE": "OpenFin Bots",
+    "CDN_LOCATION": "%ROOT_URL%",
+    "IS_SERVICE": false
+}

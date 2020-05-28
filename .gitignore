@@ -1,0 +1,7 @@
+.awcache
+.cache
+.git
+.npmrc
+
+dist
+node_modules
