@@ -4,7 +4,7 @@
   "scripts": {
     "build": "svc-tools build",
     "check": "svc-tools check",
-    "clean": "rimraf dist gen hooks.js",
+    "clean": "rimraf dist",
     "fix": "svc-tools fix",
     "start": "svc-tools start",
     "test": "echo Write some tests!"
